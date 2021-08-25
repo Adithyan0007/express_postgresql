@@ -1,0 +1,17 @@
+{
+  "name": "sending_to_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assing.js",
+  "scripts": {
+    "start": "nodemon",
+    "dev": "nodemon script"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.12"
+  }
+}

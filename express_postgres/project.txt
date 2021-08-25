@@ -1,0 +1,11 @@
+2 thermostat humidity percentage 2 devie angane
+temparature 30 -35 kodutha madhi
+humidity 60-80
+2 level indicator in percentage(water level and diesel level)
+oru energy meter (graph temp vs power x axis time (y axis power and temp))
+voltage 228V - 232V
+current 15A - 20AMP
+power * time aanu tta energy adh anusarich energy koduka(4-5kilowatt oke koduka)
+power factor (UNITYVALUE)0.62 - 0.82
+energy 80 - 100 kwh
+temparature 45 - 55deg celcius
